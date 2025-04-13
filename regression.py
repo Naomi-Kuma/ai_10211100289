@@ -153,4 +153,3 @@ def run():
 
     else:
         st.info("Please upload a CSV file to begin the regression session.")
-

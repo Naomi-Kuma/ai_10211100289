@@ -375,9 +375,3 @@ elif st.session_state.page == "neural_networks":
 
 elif st.session_state.page == "large_language_model":
     llm_rag.run()
-
-
-
-
-
-
