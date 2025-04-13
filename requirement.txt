@@ -1,0 +1,10 @@
+streamlit==1.18.0
+pandas==1.5.3
+numpy>=1.22.5
+matplotlib==3.7.1
+seaborn==0.11.3
+scikit-learn==1.2.1
+tensorflow==2.11.0
+requests==2.28.2
+pypdf==3.7.0
+faiss-cpu==1.7.2
