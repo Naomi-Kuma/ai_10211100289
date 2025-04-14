@@ -44,5 +44,5 @@ The purpose of this project is to provide AI learners and students with an acces
 
 
 ##AUTHOR
-** NAOMI EDEM kUMAH**
-**10211100289**
+- ** NAOMI EDEM kUMAH**
+- **10211100289**
