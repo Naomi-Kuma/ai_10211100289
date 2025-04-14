@@ -41,15 +41,8 @@ The purpose of this project is to provide AI learners and students with an acces
 
 ---
 
-## 📸 Screenshots / Demo  
 
-_Add screenshots or demo GIFs here to showcase the app interface and services if deploying publicly or sharing._
 
----
-
-## 📦 Installation & Run Locally
-
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/ai-scholar-hub.git
-cd ai-scholar-hub
+##AUTHOR
+** NAOMI EDEM kUMAH**
+**10211100289**
